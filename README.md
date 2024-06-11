@@ -1,5 +1,5 @@
 ## Problem Solving (JAVA)
-### 프로그래머스로 학습중
+### 프로그래머스
 
 <b>자바 입력 형식</b>
 ```java
