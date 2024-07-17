@@ -1,7 +1,5 @@
 package programmers.kit.dp;
 
-import java.io.BufferedReader;
-import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
