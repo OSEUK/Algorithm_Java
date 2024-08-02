@@ -1,5 +1,5 @@
 ## Problem Solving (JAVA)
-### 프로그래머스
+### 프로그래머스 알고리즘 고득점 kit ~ing
 
 <b>자바 입력 형식</b>
 ```java
