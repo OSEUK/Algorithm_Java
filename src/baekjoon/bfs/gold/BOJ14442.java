@@ -1,3 +1,9 @@
+/**
+ * BAEKJOON ONLINE JUDGE
+ * 문제 이름 : 벽 부수고 이동하기 2
+ * 문제 번호 : 14442
+ * 난이도 : GOLD III
+ */
 package baekjoon.bfs.gold;
 
 import java.io.BufferedReader;
