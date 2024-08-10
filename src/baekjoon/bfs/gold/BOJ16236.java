@@ -1,3 +1,9 @@
+/**
+ * BAEKJOON ONLINE JUDGE
+ * 문제 이름 : 아기 상어
+ * 문제 번호 : 16236
+ * 난이도 : GOLD III
+ */
 package baekjoon.bfs.gold;
 
 import java.io.BufferedReader;
