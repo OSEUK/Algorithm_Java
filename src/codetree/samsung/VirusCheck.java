@@ -1,3 +1,9 @@
+/**
+ * CODE TREE 삼성 SW 역량테스트
+ * 2015 하반기 1번 문제
+ * 문제 이름 : 바이러스 검사
+ * 난이도 : BRONZE 2
+ */
 package codetree.samsung;
 import java.util.*;
 public class VirusCheck {
