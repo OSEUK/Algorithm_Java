@@ -1,3 +1,9 @@
+/**
+ * BAEKJOON ONLINE JUDGE
+ * 문제 이름 : 소수 경로
+ * 문제 번호 : 1963
+ * 난이도 : GOLD IV
+ */
 package baekjoon.bfs.gold;
 
 import java.util.*;
