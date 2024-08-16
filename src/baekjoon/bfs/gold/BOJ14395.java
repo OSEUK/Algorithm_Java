@@ -46,12 +46,6 @@ public class BOJ14395 {
                 return;
             }
 
-            // / 연산 (0이 아닌 수만 처리)
-            if (!visited.contains(1L)){
-                queue.add(new Node(1, current.operations + "/"));
-                visited.add(1L);
-            }
-
             // * 연산
             long nextValue = current.value * current.value;
 
@@ -68,7 +62,11 @@ public class BOJ14395 {
                 visited.add(nextValue);
             }
 
-
+            // / 연산 (0이 아닌 수만 처리)
+            if (!visited.contains(1L)){
+                queue.add(new Node(1, current.operations + "/"));
+                visited.add(1L);
+            }
 
         }
 
