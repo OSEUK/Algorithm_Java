@@ -1,3 +1,9 @@
+/**
+ * BAEKJOON ONLINE JUDGE
+ * 문제 이름 : 순회 강연
+ * 문제 번호 : 2109
+ * 난이도 : GOLD III
+ */
 package baekjoon.greedy.gold;
 
 import java.io.BufferedReader;
