@@ -110,9 +110,9 @@ public class BOJ2573 {
 
             // 방문 완료한 해당 칸의 높이 갱신
             map[p.x][p.y] = nextHeight;
+
         }
     }
-
 
 
 }
