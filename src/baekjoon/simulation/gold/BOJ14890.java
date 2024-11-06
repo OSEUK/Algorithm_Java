@@ -1,3 +1,10 @@
+/**
+ * BAEKJOON ONLINE JUDGE
+ * 문제 이름 : 경사로
+ * 문제 번호 : 14890
+ * 난이도 : GOLD III
+ */
+
 package baekjoon.simulation.gold;
 
 import java.io.BufferedReader;
@@ -46,6 +53,8 @@ public class BOJ14890 {
 
                     continue;
                 }
+
+                // 세 가지 경우가 아니라면 경사 차이가 더 많이 나므로 놓지 못함.
                 canGo = false;
             }
             if (canGo) answer++;
