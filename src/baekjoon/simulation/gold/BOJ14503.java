@@ -7,8 +7,6 @@
 
 package baekjoon.simulation.gold;
 
-import java.io.BufferedReader;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class BOJ14503 {
